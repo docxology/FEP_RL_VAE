@@ -1,0 +1,10 @@
+# Include core dependencies
+-r requirements.txt
+
+# Development dependencies
+pytest>=7.0.0
+pytest-cov
+black
+isort
+flake8
+mypy
